@@ -33,7 +33,7 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonado por [suas áreas de interesse,
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alexandre96dev&show_icons=true)
 
 ## Contribuições Open Source
 
