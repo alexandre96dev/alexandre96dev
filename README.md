@@ -5,9 +5,9 @@
 
 <div align="center">
 <a href="https://github.com/alexandre96dev">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=alexandre96dev&show_icons=true&theme=dark&count_private=true&include_all_commits=true&text_color=ed9acc">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=alexandre96dev&show_icons=true&theme=dark&count_private=true&include_all_commits=true&text_color=005700">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre96dev&langs_count=7&theme=dark&layout=compact&text_color=fab6df&count_private=true">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre96dev&langs_count=7&theme=dark&layout=compact&text_color=005700&count_private=true">
 </div>
 <div align="center" style="display: inline_block"><br>
 <img align="center" alt="Alexandre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
